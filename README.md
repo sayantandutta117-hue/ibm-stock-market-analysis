@@ -18,7 +18,7 @@ Alpha Vantage API
 Weekly
 
 ## File
-`ibm_weekly_stock_data.csv`
+`IBM_weekly_stock_data.csv`
 
 ## Purpose
 This dataset can be used for learning data analysis, exploring historical stock price trends, and practicing Python and Pandas.
